@@ -2,141 +2,141 @@
   {
     "id": "m1",
     "name": "Mac & Cheese",
-    "price": "8.99",
+    "price": "89999",
     "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
     "image": "images/mac-and-cheese.jpg"
   },
   {
     "id": "m2",
-    "name": "Margherita Pizza",
-    "price": "12.99",
-    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "name": "Pizza Margherita",
+    "price": "129599",
+    "description": "Một chiếc pizza cổ điển với phô mai mozzarella tươi, cà chua và húng quế trên lớp bánh mỏng và giòn.",
     "image": "images/margherita-pizza.jpg"
   },
   {
     "id": "m3",
-    "name": "Caesar Salad",
-    "price": "7.99",
+    "name": "Salad Caesar",
+    "price": "79599",
     "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
     "image": "images/caesar-salad.jpg"
   },
   {
     "id": "m4",
-    "name": "Spaghetti Carbonara",
-    "price": "10.99",
-    "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
+    "name": "Mì Spaghetti Carbonara",
+    "price": "108099",
+    "description": "Mì spaghetti al dente với sốt kem được làm từ lòng đỏ trứng, phô mai pecorino, thịt lợn muối và tiêu.",
     "image": "images/spaghetti-carbonara.jpg"
   },
   {
     "id": "m5",
-    "name": "Veggie Burger",
-    "price": "9.99",
-    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+    "name": "Burger Chay",
+    "price": "97199",
+    "description": "Một miếng bánh burger chay mềm mại được đặt trên một ổ bánh mì ngũ cốc với rau diếp, cà chua và sốt chua ngọt.",
     "image": "images/veggie-burger.jpg"
   },
   {
     "id": "m6",
-    "name": "Grilled Chicken Sandwich",
-    "price": "10.99",
-    "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+    "name": "Bánh Mì Gà Nướng",
+    "price": "102099",
+    "description": "Miếng thịt gà nướng mềm mại kèm với bơ lúa mì, thịt bò xông khói, rau diếp và mù tạt trên một ổ bánh mì nướng giòn.",
     "image": "images/grilled-chicken-sandwich.jpg"
   },
   {
     "id": "m7",
-    "name": "Steak Frites",
-    "price": "17.99",
-    "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+    "name": "Bò Nướng Kèm Khoai Tây Chiên",
+    "price": "174599",
+    "description": "Thịt bò mềm ngon được nướng theo sở thích của bạn, được phục vụ cùng với khoai tây chiên giòn và bơ hòa quyện vị thơm.",
     "image": "images/steak-frites.jpg"
   },
   {
     "id": "m8",
-    "name": "Sushi Roll Platter",
-    "price": "15.99",
-    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+    "name": "Dĩa Sushi",
+    "price": "158999",
+    "description": "Một loạt các cuộn sushi tươi ngon bao gồm California, Spicy Tuna và Eel Avocado.",
     "image": "images/sushi-roll-platter.jpg"
   },
   {
     "id": "m9",
-    "name": "Chicken Curry",
-    "price": "13.99",
-    "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+    "name": "Cà Ri Gà",
+    "price": "137599",
+    "description": "Miếng gà mềm được luộc trong một sốt cà ri đậm đà và thơm ngon, được phục vụ cùng với cơm basmati.",
     "image": "images/chicken-curry.jpg"
   },
   {
     "id": "m10",
-    "name": "Vegan Buddha Bowl",
-    "price": "11.99",
-    "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+    "name": "Tô Phật Tử Chay",
+    "price": "111099",
+    "description": "Một tô đầy đặn với hạt lúa mạch, rau củ nướng, bơ lúa mì và một sốt tahini.",
     "image": "images/vegan-buddha-bowl.jpg"
   },
   {
     "id": "m11",
-    "name": "Seafood Paella",
-    "price": "19.99",
-    "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
+    "name": "Paella Hải Sản",
+    "price": "192099",
+    "description": "Một món ăn đặc sản của Tây Ban Nha được làm từ gạo nướng với hương vị nghệ, tôm, ngao và xúc xích.",
     "image": "images/seafood-paella.jpg"
   },
   {
     "id": "m12",
-    "name": "Pancake Stack",
-    "price": "8.99",
-    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+    "name": "Bánh Pancake",
+    "price": "82099",
+    "description": "Bánh pancake mềm mịn được xếp cao, được tráng bằng syrup cây phong và trang trí với dâu tươi.",
     "image": "images/pancake-stack.jpg"
   },
   {
     "id": "m13",
-    "name": "Miso Ramen",
-    "price": "12.99",
-    "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
+    "name": "Mì Ramen Miso",
+    "price": "124099",
+    "description": "Một tô mì ramen ấm áp với nước dùng miso, thịt lợn mềm, trứng luộc mềm và hành lá.",
     "image": "images/miso-ramen.jpg"
   },
   {
     "id": "m14",
-    "name": "Beef Tacos",
-    "price": "9.99",
-    "description": "Three soft tortillas filled with seasoned beef, fresh salsa, cheese, and sour cream.",
+    "name": "Tacos Thịt Bò",
+    "price": "99999",
+    "description": "Ba lớp bánh tortilla mềm được nhồi với thịt bò đã gia vị, sốt salsa tươi, phô mai và kem chua.",
     "image": "images/beef-tacos.jpg"
   },
   {
     "id": "m15",
-    "name": "Chocolate Brownie",
-    "price": "5.99",
-    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "name": "Brownie Sô Cô La",
+    "price": "59999",
+    "description": "Một chiếc brownie đậm đặc với một viên kem vani và sốt sô cô la.",
     "image": "images/chocolate-brownie.jpg"
   },
   {
     "id": "m16",
-    "name": "Lobster Bisque",
-    "price": "14.99",
-    "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
+    "name": "Súp Cua",
+    "price": "149999",
+    "description": "Một tô súp mềm mại được làm từ nước dùng cua, rau củ thơm và một chút rượu brandy.",
     "image": "images/lobster-bisque.jpg"
   },
   {
     "id": "m17",
-    "name": "Mushroom Risotto",
-    "price": "13.99",
-    "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+    "name": "Risotto Nấm",
+    "price": "139999",
+    "description": "Gạo Arborio mềm mịn được nấu cùng với một loạt các loại nấm hoang và hoàn thiện với phô mai parmesan.",
     "image": "images/mushroom-risotto.jpg"
   },
   {
     "id": "m18",
-    "name": "Eggplant Parmesan",
-    "price": "11.99",
-    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "name": "Cà Tím Phô Mai",
+    "price": "119999",
+    "description": "Cà tím lớp lớp được chiên giòn, sốt cà chua, phô mai tan chảy và phô mai parmesan.",
     "image": "images/eggplant-parmesan.jpg"
   },
   {
     "id": "m19",
-    "name": "Lemon Cheesecake",
-    "price": "6.99",
-    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "name": "Bánh Cheese Khoai Môn",
+    "price": "69999",
+    "description": "Một chiếc bánh cheese mềm mịn với hương vị chanh chua, được phục vụ trên một lớp bánh quy tan.",
     "image": "images/lemon-cheesecake.jpg"
   },
   {
     "id": "m20",
-    "name": "Falafel Wrap",
-    "price": "8.99",
-    "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
+    "name": "Wrap Falafel",
+    "price": "89999",
+    "description": "Falafel giòn được bọc trong một chiếc bánh pita ấm với rau diếp, cà chua và một sốt tahini.",
     "image": "images/falafel-wrap.jpg"
   }
 ]
